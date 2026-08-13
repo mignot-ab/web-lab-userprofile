@@ -6,13 +6,10 @@ A modern, responsive, prop-driven React profile card web application built with 
 
 ## 👤 Student Information
 
-> [!NOTE]
-> Please update the details below with your specific student information if needed.
-
-- **Full Name:** [Your Full Name]
-- **Email:** [Your Email Address]
-- **Section:** [Your Section / Class]
-- **Student ID:** [Your Student ID]
+- **Full Name:** Mignot Abraham
+- **Email:** mignotabrsh@gmail.com
+- **Section:** DRBSE2401 B
+- **Student ID:** BX5842
 
 ---
 
@@ -73,13 +70,8 @@ Follow these steps to run the project locally on your machine:
 ### 2. Installation
 Clone the repository and install project dependencies:
 ```bash
-# Clone your repository
-git clone <your-repository-url>
-
-# Navigate into the project folder
+git clone https://github.com/mignot-ab/web-lab-userprofile.git
 cd "Web2 lab"
-
-# Install dependencies
 npm install
 ```
 
@@ -91,7 +83,6 @@ npm run dev
 Open your browser and navigate to `http://localhost:5173`.
 
 ### 4. Build for Production
-To generate a production-ready build in the `dist` directory:
 ```bash
 npm run build
 ```
@@ -105,17 +96,3 @@ npm run preview
 ```bash
 npm run lint
 ```
-
----
-
-## 🌐 Repository Visibility & Submission
-
-To ensure your submission meets course requirements:
-1. Go to your repository settings on **GitHub**.
-2. Under **General** > **Danger Zone**, ensure the repository visibility is set to **Public**.
-3. Push your latest code changes including this `README.md` file:
-   ```bash
-   git add README.md
-   git commit -m "Update README with student information and project details"
-   git push origin main
-   ```
